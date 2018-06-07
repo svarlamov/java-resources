@@ -1,0 +1,1 @@
+set -e; cd ../../../; javac iterations/branching_statements/exl_return/ReturnStatementExample.java; java iterations/branching_statements/exl_return/ReturnStatementExample

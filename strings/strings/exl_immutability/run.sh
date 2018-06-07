@@ -1,0 +1,1 @@
+set -e; cd ../../../; javac strings/strings/exl_immutability/ImmutabilityExample.java; java strings/strings/exl_immutability/ImmutabilityExample

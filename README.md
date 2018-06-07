@@ -1,1 +1,4 @@
-# java-resources
+# Java Resources
+
+Use with EXL Java Course
+

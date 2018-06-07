@@ -1,0 +1,1 @@
+set -e; cd ../../../; javac variablesand_operators/operators/exl_assignment_operators/AssignmentStatementExample.java; java variablesand_operators/operators/exl_assignment_operators/AssignmentStatementExample

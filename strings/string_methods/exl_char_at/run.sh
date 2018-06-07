@@ -1,0 +1,1 @@
+set -e; cd ../../../; javac strings/string_methods/exl_char_at/CharAtMethodExample.java; java strings/string_methods/exl_char_at/CharAtMethodExample

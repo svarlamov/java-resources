@@ -1,0 +1,1 @@
+set -e; cd ../../../; javac searchand_sortap/sorting/exl_selection_sort/SelectionSortExample.java; java searchand_sortap/sorting/exl_selection_sort/SelectionSortExample

@@ -1,0 +1,1 @@
+set -e; cd ../../../; javac searchand_sortap/searching/exl_binary_search/BinarySearchExample.java; java searchand_sortap/searching/exl_binary_search/BinarySearchExample

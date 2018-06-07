@@ -1,0 +1,1 @@
+set -e; cd ../../../; javac iterations/loops/exl_thewhile_statement/WhileLoopExample.java; java iterations/loops/exl_thewhile_statement/WhileLoopExample

@@ -1,0 +1,1 @@
+set -e; cd ../../../; javac introductionto_javajc/javaclassandsourcefile/exl_imports/ImportExample.java; java introductionto_javajc/javaclassandsourcefile/exl_imports/ImportExample

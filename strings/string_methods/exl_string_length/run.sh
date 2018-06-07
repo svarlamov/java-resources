@@ -1,0 +1,1 @@
+set -e; cd ../../../; javac strings/string_methods/exl_string_length/StringLengthExample.java; java strings/string_methods/exl_string_length/StringLengthExample

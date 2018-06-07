@@ -1,0 +1,1 @@
+set -e; cd ../../../; javac java_syntaxand_style/basic_syntax/exl_fields/FieldsExample.java; java java_syntaxand_style/basic_syntax/exl_fields/FieldsExample

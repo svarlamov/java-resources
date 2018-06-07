@@ -1,0 +1,1 @@
+set -e; cd ../../../; javac exceptions/examplesof_exceptions/exl_string_index_out_of_bounds_exception/StringIndexOutOfBoundsExample.java; java exceptions/examplesof_exceptions/exl_string_index_out_of_bounds_exception/StringIndexOutOfBoundsExample

@@ -1,0 +1,1 @@
+set -e; cd ../../../; javac iterations/loops/exl_thefor_statement/ForLoopExample.java; java iterations/loops/exl_thefor_statement/ForLoopExample

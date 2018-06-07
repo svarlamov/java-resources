@@ -1,0 +1,1 @@
+set -e; cd ../../../; javac strings/strings/exl_creating_strings/StringsExample.java; java strings/strings/exl_creating_strings/StringsExample

@@ -1,0 +1,1 @@
+set -e; cd ../../../; javac recursion/methods/exl_creating_recursive_methods/RecursiveMethodsExample.java; java recursion/methods/exl_creating_recursive_methods/RecursiveMethodsExample

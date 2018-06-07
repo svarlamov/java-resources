@@ -1,0 +1,1 @@
+set -e; cd ../../../; javac strings/conversions/exl_parse_int/ParseIntExample.java; java strings/conversions/exl_parse_int/ParseIntExample

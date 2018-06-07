@@ -1,0 +1,1 @@
+set -e; cd ../../../; javac variablesand_operators/math_class/exl_power/PowerMethodExample.java; java variablesand_operators/math_class/exl_power/PowerMethodExample

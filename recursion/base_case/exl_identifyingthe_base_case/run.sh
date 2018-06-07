@@ -1,0 +1,1 @@
+set -e; cd ../../../; javac recursion/base_case/exl_identifyingthe_base_case/IdentifyingBaseCaseExample.java; java recursion/base_case/exl_identifyingthe_base_case/IdentifyingBaseCaseExample

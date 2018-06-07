@@ -1,0 +1,1 @@
+set -e; cd ../../../; javac java_syntaxand_style/errors/exl_logic_errors/LogicErrorExample.java; java java_syntaxand_style/errors/exl_logic_errors/LogicErrorExample
