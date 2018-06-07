@@ -1,1 +1,1 @@
-set -e; cd ../../../; javac introductionto_javajc/introduction/exl_hello_worldprogram/HelloWorldExample.java; java introductionto_javajc/introduction/exl_hello_worldprogram/HelloWorldExample
+set -e; javac introductionto_javajc/introduction/exl_hello_worldprogram/HelloWorldExample.java; java introductionto_javajc/introduction/exl_hello_worldprogram/HelloWorldExample

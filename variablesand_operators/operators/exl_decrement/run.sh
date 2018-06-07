@@ -1,1 +1,1 @@
-set -e; cd ../../../; javac variablesand_operators/operators/exl_decrement/DecrementExample.java; java variablesand_operators/operators/exl_decrement/DecrementExample
+set -e; javac variablesand_operators/operators/exl_decrement/DecrementExample.java; java variablesand_operators/operators/exl_decrement/DecrementExample

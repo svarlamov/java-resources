@@ -1,1 +1,1 @@
-set -e; cd ../../../; javac java_syntaxand_style/basic_syntax/exl_declaring_classes/ClassExample.java; java java_syntaxand_style/basic_syntax/exl_declaring_classes/ClassExample
+set -e; javac java_syntaxand_style/basic_syntax/exl_declaring_classes/ClassExample.java; java java_syntaxand_style/basic_syntax/exl_declaring_classes/ClassExample

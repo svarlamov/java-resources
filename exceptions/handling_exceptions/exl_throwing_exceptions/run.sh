@@ -1,1 +1,1 @@
-set -e; cd ../../../; javac exceptions/handling_exceptions/exl_throwing_exceptions/ThrowingExceptionsExample.java; java exceptions/handling_exceptions/exl_throwing_exceptions/ThrowingExceptionsExample
+set -e; javac exceptions/handling_exceptions/exl_throwing_exceptions/ThrowingExceptionsExample.java; java exceptions/handling_exceptions/exl_throwing_exceptions/ThrowingExceptionsExample

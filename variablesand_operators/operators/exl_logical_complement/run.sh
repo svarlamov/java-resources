@@ -1,1 +1,1 @@
-set -e; cd ../../../; javac variablesand_operators/operators/exl_logical_complement/LogicalComplementExample.java; java variablesand_operators/operators/exl_logical_complement/LogicalComplementExample
+set -e; javac variablesand_operators/operators/exl_logical_complement/LogicalComplementExample.java; java variablesand_operators/operators/exl_logical_complement/LogicalComplementExample

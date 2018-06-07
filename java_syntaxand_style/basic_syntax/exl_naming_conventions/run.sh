@@ -1,1 +1,1 @@
-set -e; cd ../../../; javac java_syntaxand_style/basic_syntax/exl_naming_conventions/NamingConventionsExample.java; java java_syntaxand_style/basic_syntax/exl_naming_conventions/NamingConventionsExample
+set -e; javac java_syntaxand_style/basic_syntax/exl_naming_conventions/NamingConventionsExample.java; java java_syntaxand_style/basic_syntax/exl_naming_conventions/NamingConventionsExample

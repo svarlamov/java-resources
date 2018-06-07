@@ -1,1 +1,1 @@
-set -e; cd ../../../; javac variablesand_operators/math_class/exl_square_root/SquareRootExample.java; java variablesand_operators/math_class/exl_square_root/SquareRootExample
+set -e; javac variablesand_operators/math_class/exl_square_root/SquareRootExample.java; java variablesand_operators/math_class/exl_square_root/SquareRootExample

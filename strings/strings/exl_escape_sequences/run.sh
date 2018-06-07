@@ -1,1 +1,1 @@
-set -e; cd ../../../; javac strings/strings/exl_escape_sequences/EscapeSequenceExample.java; java strings/strings/exl_escape_sequences/EscapeSequenceExample
+set -e; javac strings/strings/exl_escape_sequences/EscapeSequenceExample.java; java strings/strings/exl_escape_sequences/EscapeSequenceExample

@@ -1,1 +1,1 @@
-set -e; cd ../../../; javac variablesand_operators/primitive_data_types/exl_boolean/BooleanDataTypeExample.java; java variablesand_operators/primitive_data_types/exl_boolean/BooleanDataTypeExample
+set -e; javac variablesand_operators/primitive_data_types/exl_boolean/BooleanDataTypeExample.java; java variablesand_operators/primitive_data_types/exl_boolean/BooleanDataTypeExample

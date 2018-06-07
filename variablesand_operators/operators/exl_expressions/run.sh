@@ -1,1 +1,1 @@
-set -e; cd ../../../; javac variablesand_operators/operators/exl_expressions/ExpressionsExample.java; java variablesand_operators/operators/exl_expressions/ExpressionsExample
+set -e; javac variablesand_operators/operators/exl_expressions/ExpressionsExample.java; java variablesand_operators/operators/exl_expressions/ExpressionsExample

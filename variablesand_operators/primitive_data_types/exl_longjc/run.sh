@@ -1,1 +1,1 @@
-set -e; cd ../../../; javac variablesand_operators/primitive_data_types/exl_longjc/LongDataTypeExample.java; java variablesand_operators/primitive_data_types/exl_longjc/LongDataTypeExample
+set -e; javac variablesand_operators/primitive_data_types/exl_longjc/LongDataTypeExample.java; java variablesand_operators/primitive_data_types/exl_longjc/LongDataTypeExample

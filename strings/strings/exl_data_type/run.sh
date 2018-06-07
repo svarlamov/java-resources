@@ -1,1 +1,1 @@
-set -e; cd ../../../; javac strings/strings/exl_data_type/DataTypeStringExample.java; java strings/strings/exl_data_type/DataTypeStringExample
+set -e; javac strings/strings/exl_data_type/DataTypeStringExample.java; java strings/strings/exl_data_type/DataTypeStringExample

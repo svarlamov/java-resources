@@ -1,1 +1,1 @@
-set -e; cd ../../../; javac searchand_sortap/searching/exl_sequential_search/SequentialSearchExample.java; java searchand_sortap/searching/exl_sequential_search/SequentialSearchExample
+set -e; javac searchand_sortap/searching/exl_sequential_search/SequentialSearchExample.java; java searchand_sortap/searching/exl_sequential_search/SequentialSearchExample

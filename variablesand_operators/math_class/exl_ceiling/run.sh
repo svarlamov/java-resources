@@ -1,1 +1,1 @@
-set -e; cd ../../../; javac variablesand_operators/math_class/exl_ceiling/CeilingMethodExample.java; java variablesand_operators/math_class/exl_ceiling/CeilingMethodExample
+set -e; javac variablesand_operators/math_class/exl_ceiling/CeilingMethodExample.java; java variablesand_operators/math_class/exl_ceiling/CeilingMethodExample

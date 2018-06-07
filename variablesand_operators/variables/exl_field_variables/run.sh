@@ -1,1 +1,1 @@
-set -e; cd ../../../; javac variablesand_operators/variables/exl_field_variables/FieldVariableExample.java; java variablesand_operators/variables/exl_field_variables/FieldVariableExample
+set -e; javac variablesand_operators/variables/exl_field_variables/FieldVariableExample.java; java variablesand_operators/variables/exl_field_variables/FieldVariableExample

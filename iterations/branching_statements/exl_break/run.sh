@@ -1,1 +1,1 @@
-set -e; cd ../../../; javac iterations/branching_statements/exl_break/BreakStatementExample.java; java iterations/branching_statements/exl_break/BreakStatementExample
+set -e; javac iterations/branching_statements/exl_break/BreakStatementExample.java; java iterations/branching_statements/exl_break/BreakStatementExample

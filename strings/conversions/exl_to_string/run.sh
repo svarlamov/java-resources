@@ -1,1 +1,1 @@
-set -e; cd ../../../; javac strings/conversions/exl_to_string/ToStringExample.java; java strings/conversions/exl_to_string/ToStringExample
+set -e; javac strings/conversions/exl_to_string/ToStringExample.java; java strings/conversions/exl_to_string/ToStringExample

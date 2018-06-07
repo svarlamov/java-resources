@@ -1,1 +1,1 @@
-set -e; cd ../../../; javac variablesand_operators/math_class/exl_floor/FloorMethodExample.java; java variablesand_operators/math_class/exl_floor/FloorMethodExample
+set -e; javac variablesand_operators/math_class/exl_floor/FloorMethodExample.java; java variablesand_operators/math_class/exl_floor/FloorMethodExample

@@ -1,1 +1,1 @@
-set -e; cd ../../../; javac java_syntaxand_style/basic_syntax/exl_access_control/AccessControlExample.java; java java_syntaxand_style/basic_syntax/exl_access_control/AccessControlExample
+set -e; javac java_syntaxand_style/basic_syntax/exl_access_control/AccessControlExample.java; java java_syntaxand_style/basic_syntax/exl_access_control/AccessControlExample

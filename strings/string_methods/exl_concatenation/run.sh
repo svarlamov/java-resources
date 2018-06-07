@@ -1,1 +1,1 @@
-set -e; cd ../../../; javac strings/string_methods/exl_concatenation/ConcatenationExample.java; java strings/string_methods/exl_concatenation/ConcatenationExample
+set -e; javac strings/string_methods/exl_concatenation/ConcatenationExample.java; java strings/string_methods/exl_concatenation/ConcatenationExample

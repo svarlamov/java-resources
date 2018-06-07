@@ -1,1 +1,1 @@
-set -e; cd ../../../; javac iterations/loops/exl_loop_variable/LoopVariableExample.java; java iterations/loops/exl_loop_variable/LoopVariableExample
+set -e; javac iterations/loops/exl_loop_variable/LoopVariableExample.java; java iterations/loops/exl_loop_variable/LoopVariableExample

@@ -1,1 +1,1 @@
-set -e; cd ../../../; javac variablesand_operators/variables/exl_local_variables/LocalVariableExample.java; java variablesand_operators/variables/exl_local_variables/LocalVariableExample
+set -e; javac variablesand_operators/variables/exl_local_variables/LocalVariableExample.java; java variablesand_operators/variables/exl_local_variables/LocalVariableExample

@@ -1,1 +1,1 @@
-set -e; cd ../../../; javac variablesand_operators/operators/exl_relational_operators/RelationalOperatorExample.java; java variablesand_operators/operators/exl_relational_operators/RelationalOperatorExample
+set -e; javac variablesand_operators/operators/exl_relational_operators/RelationalOperatorExample.java; java variablesand_operators/operators/exl_relational_operators/RelationalOperatorExample

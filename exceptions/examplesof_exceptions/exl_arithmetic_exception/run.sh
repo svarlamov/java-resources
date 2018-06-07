@@ -1,1 +1,1 @@
-set -e; cd ../../../; javac exceptions/examplesof_exceptions/exl_arithmetic_exception/ArithmeticExceptionExample.java; java exceptions/examplesof_exceptions/exl_arithmetic_exception/ArithmeticExceptionExample
+set -e; javac exceptions/examplesof_exceptions/exl_arithmetic_exception/ArithmeticExceptionExample.java; java exceptions/examplesof_exceptions/exl_arithmetic_exception/ArithmeticExceptionExample

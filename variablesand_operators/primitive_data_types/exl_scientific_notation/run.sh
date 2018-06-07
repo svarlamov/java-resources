@@ -1,1 +1,1 @@
-set -e; cd ../../../; javac variablesand_operators/primitive_data_types/exl_scientific_notation/ScientificNotationExample.java; java variablesand_operators/primitive_data_types/exl_scientific_notation/ScientificNotationExample
+set -e; javac variablesand_operators/primitive_data_types/exl_scientific_notation/ScientificNotationExample.java; java variablesand_operators/primitive_data_types/exl_scientific_notation/ScientificNotationExample

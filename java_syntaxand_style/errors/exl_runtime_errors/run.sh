@@ -1,1 +1,1 @@
-set -e; cd ../../../; javac java_syntaxand_style/errors/exl_runtime_errors/RunTimeErrorExample.java; java java_syntaxand_style/errors/exl_runtime_errors/RunTimeErrorExample
+set -e; javac java_syntaxand_style/errors/exl_runtime_errors/RunTimeErrorExample.java; java java_syntaxand_style/errors/exl_runtime_errors/RunTimeErrorExample

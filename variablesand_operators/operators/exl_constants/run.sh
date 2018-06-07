@@ -1,1 +1,1 @@
-set -e; cd ../../../; javac variablesand_operators/operators/exl_constants/ConstantsExample.java; java variablesand_operators/operators/exl_constants/ConstantsExample
+set -e; javac variablesand_operators/operators/exl_constants/ConstantsExample.java; java variablesand_operators/operators/exl_constants/ConstantsExample
